@@ -1,0 +1,12 @@
+C:\Users\venka\source\repos\Movies.Data\obj\Debug\netcoreapp2.2\Movies.Data.csprojAssemblyReference.cache
+C:\Users\venka\source\repos\Movies.Data\obj\Debug\netcoreapp2.2\Movies.Data.csproj.CoreCompileInputs.cache
+C:\Users\venka\source\repos\Movies.Data\obj\Debug\netcoreapp2.2\Movies.Data.AssemblyInfoInputs.cache
+C:\Users\venka\source\repos\Movies.Data\obj\Debug\netcoreapp2.2\Movies.Data.AssemblyInfo.cs
+C:\Users\venka\source\repos\Movies.Data\bin\Debug\netcoreapp2.2\Movies.Data.deps.json
+C:\Users\venka\source\repos\Movies.Data\bin\Debug\netcoreapp2.2\Movies.Data.dll
+C:\Users\venka\source\repos\Movies.Data\bin\Debug\netcoreapp2.2\Movies.Data.pdb
+C:\Users\venka\source\repos\Movies.Data\bin\Debug\netcoreapp2.2\Movies.Core.dll
+C:\Users\venka\source\repos\Movies.Data\bin\Debug\netcoreapp2.2\Movies.Core.pdb
+C:\Users\venka\source\repos\Movies.Data\obj\Debug\netcoreapp2.2\Movies.Data.csproj.CopyComplete
+C:\Users\venka\source\repos\Movies.Data\obj\Debug\netcoreapp2.2\Movies.Data.dll
+C:\Users\venka\source\repos\Movies.Data\obj\Debug\netcoreapp2.2\Movies.Data.pdb

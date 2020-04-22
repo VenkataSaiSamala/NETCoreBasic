@@ -1,0 +1,12 @@
+C:\Users\venka\source\repos\Movies.Data\bin\Release\netcoreapp2.1\Movies.Data.deps.json
+C:\Users\venka\source\repos\Movies.Data\bin\Release\netcoreapp2.1\Movies.Data.dll
+C:\Users\venka\source\repos\Movies.Data\bin\Release\netcoreapp2.1\Movies.Data.pdb
+C:\Users\venka\source\repos\Movies.Data\bin\Release\netcoreapp2.1\Movies.Core.dll
+C:\Users\venka\source\repos\Movies.Data\bin\Release\netcoreapp2.1\Movies.Core.pdb
+C:\Users\venka\source\repos\Movies.Data\obj\Release\netcoreapp2.1\Movies.Data.csprojAssemblyReference.cache
+C:\Users\venka\source\repos\Movies.Data\obj\Release\netcoreapp2.1\Movies.Data.csproj.CoreCompileInputs.cache
+C:\Users\venka\source\repos\Movies.Data\obj\Release\netcoreapp2.1\Movies.Data.AssemblyInfoInputs.cache
+C:\Users\venka\source\repos\Movies.Data\obj\Release\netcoreapp2.1\Movies.Data.AssemblyInfo.cs
+C:\Users\venka\source\repos\Movies.Data\obj\Release\netcoreapp2.1\Movies.Data.csproj.CopyComplete
+C:\Users\venka\source\repos\Movies.Data\obj\Release\netcoreapp2.1\Movies.Data.dll
+C:\Users\venka\source\repos\Movies.Data\obj\Release\netcoreapp2.1\Movies.Data.pdb

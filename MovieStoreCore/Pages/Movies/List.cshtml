@@ -1,0 +1,26 @@
+﻿@page
+@model MovieStoreCore.Pages.Movies.ListModel
+@{
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+</head>
+<body>
+    <table class="table">
+        @foreach (var item in Model.moviesData)
+        {
+            <tr>
+                <td>@item.MovieName</td> 
+                <td>@item.Country</td>
+                <td>@item.Genres</td>
+            </tr> 
+        }
+
+    </table>
+</body>
+</html>
