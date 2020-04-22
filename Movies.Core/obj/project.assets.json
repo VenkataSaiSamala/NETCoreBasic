@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venka\\source\\repos\\Movies.Core\\Movies.Core.csproj",
+      "projectUniqueName": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\Movies.Core.csproj",
       "projectName": "Movies.Core",
-      "projectPath": "C:\\Users\\venka\\source\\repos\\Movies.Core\\Movies.Core.csproj",
+      "projectPath": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\Movies.Core.csproj",
       "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venka\\source\\repos\\Movies.Core\\obj\\",
+      "outputPath": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

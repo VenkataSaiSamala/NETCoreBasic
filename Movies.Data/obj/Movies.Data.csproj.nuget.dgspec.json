@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\venka\\source\\repos\\Movies.Data\\Movies.Data.csproj": {}
+    "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Data\\Movies.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\venka\\source\\repos\\Movies.Core\\Movies.Core.csproj": {
+    "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\Movies.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\venka\\source\\repos\\Movies.Core\\Movies.Core.csproj",
+        "projectUniqueName": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\Movies.Core.csproj",
         "projectName": "Movies.Core",
-        "projectPath": "C:\\Users\\venka\\source\\repos\\Movies.Core\\Movies.Core.csproj",
+        "projectPath": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\Movies.Core.csproj",
         "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\venka\\source\\repos\\Movies.Core\\obj\\",
+        "outputPath": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\venka\\source\\repos\\Movies.Data\\Movies.Data.csproj": {
+    "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Data\\Movies.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\venka\\source\\repos\\Movies.Data\\Movies.Data.csproj",
+        "projectUniqueName": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Data\\Movies.Data.csproj",
         "projectName": "Movies.Data",
-        "projectPath": "C:\\Users\\venka\\source\\repos\\Movies.Data\\Movies.Data.csproj",
+        "projectPath": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Data\\Movies.Data.csproj",
         "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\venka\\source\\repos\\Movies.Data\\obj\\",
+        "outputPath": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\venka\\source\\repos\\Movies.Core\\Movies.Core.csproj": {
-                "projectPath": "C:\\Users\\venka\\source\\repos\\Movies.Core\\Movies.Core.csproj"
+              "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\Movies.Core.csproj": {
+                "projectPath": "C:\\Users\\venka\\source\\repos\\MovieStoreProject\\Movies.Core\\Movies.Core.csproj"
               }
             }
           }
