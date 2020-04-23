@@ -14,6 +14,8 @@ namespace MovieStoreCore.Pages.Movies
     {
         private readonly IConfiguration config;
         private readonly IMoviesData movieData;
+        [BindProperty(SupportsGet =true)]
+        public string SearchTerm { get; set; }
 
         public IEnumerable<MoviesList> moviesData { get; set; }
 
@@ -25,7 +27,7 @@ namespace MovieStoreCore.Pages.Movies
         }
         public void OnGet()
         {
-            moviesData = movieData.GetAll();
+            moviesData = movieData.GetMovieByName(SearchTerm);
         }
     }
 }

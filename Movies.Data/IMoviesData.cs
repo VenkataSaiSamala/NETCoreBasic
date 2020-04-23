@@ -8,7 +8,7 @@ namespace Movies.Data
 {
     public interface IMoviesData
     {
-        IEnumerable<MoviesList> GetAll();
+        IEnumerable<MoviesList> GetMovieByName(string name);
     }
 
     public class InMemoryMovies : IMoviesData
@@ -27,6 +27,14 @@ namespace Movies.Data
         public IEnumerable<MoviesList> GetAll()
         {
             return from m in moviesList
+                   orderby m.Id
+                   select m;
+        }
+
+        public IEnumerable<MoviesList> GetMovieByName(string name = null)
+        {
+            return from m in moviesList
+                   where string.IsNullOrEmpty(name) || m.MovieName.StartsWith(name)
                    orderby m.Id
                    select m;
         }
