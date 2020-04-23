@@ -1,0 +1,21 @@
+﻿@page "{movieId:int}"
+
+@model MovieStoreCore.Pages.Movies.DetailsModel
+@{
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <h2>@Model.MoviesList.MovieName</h2>
+    <div>Name:@Model.MoviesList.MovieName</div>
+    <div>Country:@Model.MoviesList.Country</div>
+    <div>Genre:@Model.MoviesList.Genres</div>
+</body>
+</html>

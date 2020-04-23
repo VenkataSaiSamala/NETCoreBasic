@@ -2,6 +2,7 @@
 {
     public enum Genres
     {
+        none,
         Thriller,
         Romance,
         Action,
