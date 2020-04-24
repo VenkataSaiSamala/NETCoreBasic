@@ -11,6 +11,8 @@ namespace MovieStoreCore.Pages.Movies
 {
     public class DetailsModel : PageModel
     {
+        [TempData]
+        public string Message { get; set; }
         private readonly IMoviesData _moviesData;
         public MoviesList MoviesList { get; set; }
 

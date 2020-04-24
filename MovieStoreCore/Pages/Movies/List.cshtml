@@ -36,9 +36,16 @@
                     <i class="glyphicon glyphicon-zoom-in"></i>
                 </a>
             </td>
+            <td>
+                <a class="btn btn-lg" asp-page="./Edit" asp-route-movieId="@item.Id">
+                    <i class="glyphicon glyphicon-edit"></i>
+                </a>
+            </td>
         </tr> 
         }
 
     </table>
+
+    <a asp-page=".\Edit" class="btn btn-default">Add New Movie</a>
 </body>
 </html>

@@ -2,7 +2,7 @@
 
 @model MovieStoreCore.Pages.Movies.DetailsModel
 @{
-    
+
 }
 
 <!DOCTYPE html>
@@ -17,5 +17,10 @@
     <div>Name:@Model.MoviesList.MovieName</div>
     <div>Country:@Model.MoviesList.Country</div>
     <div>Genre:@Model.MoviesList.Genres</div>
+    @if (@Model.Message != null)
+    {
+        <label>@Model.Message</label>
+    }
+
 </body>
 </html>

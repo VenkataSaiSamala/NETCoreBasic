@@ -10,7 +10,6 @@ C:\Users\venka\source\repos\Movies.Core\obj\Debug\netcoreapp2.1\Movies.Core.pdb
 C:\Users\venka\source\repos\MovieStoreProject\Movies.Core\bin\Debug\netcoreapp2.1\Movies.Core.deps.json
 C:\Users\venka\source\repos\MovieStoreProject\Movies.Core\bin\Debug\netcoreapp2.1\Movies.Core.dll
 C:\Users\venka\source\repos\MovieStoreProject\Movies.Core\bin\Debug\netcoreapp2.1\Movies.Core.pdb
-C:\Users\venka\source\repos\MovieStoreProject\Movies.Core\obj\Debug\netcoreapp2.1\Movies.Core.csprojAssemblyReference.cache
 C:\Users\venka\source\repos\MovieStoreProject\Movies.Core\obj\Debug\netcoreapp2.1\Movies.Core.csproj.CoreCompileInputs.cache
 C:\Users\venka\source\repos\MovieStoreProject\Movies.Core\obj\Debug\netcoreapp2.1\Movies.Core.AssemblyInfoInputs.cache
 C:\Users\venka\source\repos\MovieStoreProject\Movies.Core\obj\Debug\netcoreapp2.1\Movies.Core.AssemblyInfo.cs

@@ -1,0 +1,28 @@
+﻿@page "{movieId:int?}"
+@model MovieStoreCore.Pages.Movies.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit @Model.Movies.MovieName</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="@Model.Movies.Id" />
+    <div class="form-group">
+        <label asp-for="Movies.MovieName"></label>
+        <input asp-for="Movies.MovieName" class="form-control" />
+        <span class="text-danger" asp-validation-for="Movies.MovieName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movies.Country"></label>
+        <input asp-for="Movies.Country" class="form-control" />
+        <span class="text-danger" asp-validation-for="Movies.Country"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Movies.Genres"></label>
+        <select asp-for="Movies.Genres" class="form-control" asp-items="Model.Genres"></select>
+        <span class="text-danger" asp-validation-for="Movies.Genres"></span>
+    </div>
+    <button type="submit" class="btn btn-default">Save</button>
+</form>
+
