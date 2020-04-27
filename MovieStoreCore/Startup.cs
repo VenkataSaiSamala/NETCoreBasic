@@ -30,7 +30,7 @@ namespace MovieStoreCore
             {
                 options.UseSqlServer(Configuration.GetConnectionString("MoviesDb"));
             });
-            services.AddSingleton<IMoviesData, InMemoryMovies>();
+            services.AddScoped<IMoviesData, SqlMovies>();
             services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.
