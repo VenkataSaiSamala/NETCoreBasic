@@ -30,7 +30,7 @@ namespace Movies.Data
             var movie = GetMovieById(id);
             if (movie != null)
             {
-                moviesDbContext.Remove(movie);
+                moviesDbContext.MoviesList.Remove(movie);
             }
             return movie;
         }
